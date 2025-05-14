@@ -31,7 +31,7 @@ This project is a blockchain-powered file storage and approval system integrated
 
 🖥 Face Recognition (Upcoming): DeepFace/FaceNet
 
-# stem Architecture
+# System Architecture
 User uploads file → File stored in IPFS → Hash stored on blockchain
 
 Admin reviews and approves/rejects → Visibility updated on blockchain
