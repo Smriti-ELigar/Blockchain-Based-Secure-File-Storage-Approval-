@@ -2,7 +2,7 @@
 
 This project is a blockchain-powered file storage and approval system integrated with IPFS (InterPlanetary File System) for decentralized and secure file management. The system ensures transparency, immutability, and security in file handling while leveraging smart contracts for access control and approvals.
 
-Key Features
+# Key Features
 
 ✅ User Authentication & Metamask Integration – Users can register, log in, and link their MetaMask wallet for transactions.
 
@@ -20,7 +20,7 @@ Key Features
 
 ✅ Facial Recognition Login (Upcoming) – Face recognition authentication using FaceNet & DeepFace for enhanced security.
 
-Technology Stack
+# Technology Stack
 🟢 Backend: Python (Flask), Web3.py, SQLite
 
 🟡 Frontend: HTML, CSS, JavaScript
@@ -31,14 +31,14 @@ Technology Stack
 
 🖥 Face Recognition (Upcoming): DeepFace/FaceNet
 
-System Architecture
+# stem Architecture
 User uploads file → File stored in IPFS → Hash stored on blockchain
 
 Admin reviews and approves/rejects → Visibility updated on blockchain
 
 Users access approved files → Logs maintained for security
 
-Future Enhancements
+# Future Enhancements
 🔹 AI-based document classification
 
 🔹 Smart contract enhancements for advanced permissions
